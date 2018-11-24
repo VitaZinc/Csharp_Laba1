@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba1_v2", "Laba1_v2\Laba1_v2.csproj", "{94998185-3626-41C6-8B01-3BF892A9037C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Laba1_v2\Task3.csproj", "{94998185-3626-41C6-8B01-3BF892A9037C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "ConsoleApp1\Task1.csproj", "{36A318E7-E663-4D56-A2EA-B447EFA78F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "ConsoleApp2\Task2.csproj", "{DF24A182-1734-4985-B259-2FA23070DF46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{94998185-3626-41C6-8B01-3BF892A9037C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94998185-3626-41C6-8B01-3BF892A9037C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94998185-3626-41C6-8B01-3BF892A9037C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A318E7-E663-4D56-A2EA-B447EFA78F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A318E7-E663-4D56-A2EA-B447EFA78F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A318E7-E663-4D56-A2EA-B447EFA78F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A318E7-E663-4D56-A2EA-B447EFA78F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF24A182-1734-4985-B259-2FA23070DF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF24A182-1734-4985-B259-2FA23070DF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF24A182-1734-4985-B259-2FA23070DF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF24A182-1734-4985-B259-2FA23070DF46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
